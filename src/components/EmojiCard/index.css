@@ -1,0 +1,12 @@
+/* Write your code here. */
+.list-container {
+  margin: 5px;
+}
+
+.emoji-button {
+  padding: 10px;
+  border-radius: 10px;
+  width: 350px;
+  background-color: #ffffff33;
+  border-color: #ffffff30;
+}

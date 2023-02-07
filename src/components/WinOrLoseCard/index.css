@@ -1,0 +1,42 @@
+/* Write your code here. */
+.game-status {
+  background-color: #ffffff33;
+  border-color: #ffffff30;
+  display: flex;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 25px;
+  justify-content: space-between;
+}
+
+.win-lose {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 100px;
+}
+
+.score {
+  color: #6a59ff;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.head {
+  color: #ffffff;
+}
+
+.text {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.play {
+  background-color: #ffce27;
+  border-radius: 5px;
+  color: #ffffff;
+  border-color: transparent;
+  padding: 10px;
+}
